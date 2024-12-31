@@ -1,3 +1,3 @@
-# Sebastian Tsang Portfolio
+# My Portfolio
 
 https://sebtsang.github.io/
